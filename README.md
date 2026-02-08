@@ -1,4 +1,4 @@
-# Antigravity - Chat History Microservice
+# Chat History Microservice
 
 This project provides a robust, production-ready backend for managing RAG (Retrieval-Augmented Generation) chatbot history. It handles session management, message storage, and secure retrieval of chat contexts.
 
